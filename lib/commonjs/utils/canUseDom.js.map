@@ -1,0 +1,1 @@
+{"version":3,"names":["_reactNative","require","canUseDom","window","Platform","OS"],"sourceRoot":"../../../src","sources":["utils/canUseDom.ts"],"mappings":";;;;;;AAAA,IAAAA,YAAA,GAAAC,OAAA;AAEO,SAASC,SAASA,CAAA,EAAG;EAC1B,IAAI,OAAOC,MAAM,KAAK,WAAW,IAAIC,qBAAQ,CAACC,EAAE,KAAK,KAAK,EAAE;IAC1D,OAAO,IAAI;EACb;EACA,OAAO,KAAK;AACd"}

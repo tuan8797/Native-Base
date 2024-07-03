@@ -1,0 +1,1 @@
+{"version":3,"names":["useSpinner","props","spinnerProps","accessible","accessibilityLabel"],"sourceRoot":"../../../../../src","sources":["components/primitives/Spinner/useSpinner.tsx"],"mappings":"AAEA,OAAO,SAASA,UAAUA,CAACC,KAAoB,EAAE;EAC/C,OAAO;IACLC,YAAY,EAAE;MACZC,UAAU,EAAE,IAAI;MAChBC,kBAAkB,EAAEH,KAAK,CAACG,kBAAkB,IAAI;IAClD;EACF,CAAC;AACH"}

@@ -1,0 +1,1 @@
+{"version":3,"names":["_createIcon","require","PlayIcon","createIcon","viewBox","d","exports"],"sourceRoot":"../../../../../../src","sources":["components/primitives/Icon/Icons/Play.tsx"],"mappings":";;;;;;AAAA,IAAAA,WAAA,GAAAC,OAAA;AAEO,MAAMC,QAAQ,GAAG,IAAAC,sBAAU,EAAC;EACjCC,OAAO,EAAE,WAAW;EACpBC,CAAC,EACC;AACJ,CAAC,CAAC;AAACC,OAAA,CAAAJ,QAAA,GAAAA,QAAA"}

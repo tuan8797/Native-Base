@@ -1,0 +1,1 @@
+{"version":3,"names":["CheckboxMain","CheckboxGroup","CheckTemp","Group","Checkbox"],"sourceRoot":"../../../../../src","sources":["components/primitives/Checkbox/index.tsx"],"mappings":"AAAA,OAAOA,YAAY,MAAM,YAAY;AACrC,OAAOC,aAAa,MAAM,iBAAiB;AAG3C,MAAMC,SAAc,GAAGF,YAAY;AACnCE,SAAS,CAACC,KAAK,GAAGF,aAAa;;AAE/B;AACA,MAAMG,QAAQ,GAAGF,SAAmC;AAEpD,SAASE,QAAQ"}

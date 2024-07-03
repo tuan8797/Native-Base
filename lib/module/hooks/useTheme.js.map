@@ -1,0 +1,1 @@
+{"version":3,"names":["useNativeBaseConfig","useTheme","theme","Error"],"sourceRoot":"../../../src","sources":["hooks/useTheme.ts"],"mappings":"AAAA,SAASA,mBAAmB,QAAQ,6BAA6B;AAEjE,OAAO,SAASC,QAAQA,CAAA,EAAG;EACzB,MAAMC,KAAK,GAAGF,mBAAmB,CAAC,UAAU,CAAC,CAACE,KAAK;EACnD,IAAI,CAACA,KAAK,EAAE;IACV,MAAMC,KAAK,CACT,+FACF,CAAC;EACH;EAEA,OAAOD,KAAK;AACd"}

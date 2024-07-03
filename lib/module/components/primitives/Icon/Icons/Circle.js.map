@@ -1,0 +1,1 @@
+{"version":3,"names":["createIcon","CircleIcon","viewBox","d"],"sourceRoot":"../../../../../../src","sources":["components/primitives/Icon/Icons/Circle.tsx"],"mappings":"AAAA,SAASA,UAAU,QAAQ,eAAe;AAE1C,OAAO,MAAMC,UAAU,GAAGD,UAAU,CAAC;EACnCE,OAAO,EAAE,WAAW;EACpBC,CAAC,EACC;AACJ,CAAC,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"names":["createContext","TabsContext"],"sourceRoot":"../../../../../src","sources":["components/composites/Tabs/Context.ts"],"mappings":"AAAA,SAASA,aAAa,QAAQ,OAAO;AAErC,OAAO,MAAMC,WAAW,gBAAGD,aAAa,CAAC,CAAC,CAAC,CAAC"}

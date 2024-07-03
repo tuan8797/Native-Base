@@ -1,0 +1,1 @@
+{"version":3,"names":["createContext","defaultConfig","strictMode","NativeBaseConfigProvider","useNativeBaseConfig"],"sourceRoot":"../../../src","sources":["core/NativeBaseContext.ts"],"mappings":"AAAA,SAASA,aAAa,QAAQ,wBAAwB;AAetD,OAAO,MAAMC,aAAgC,GAAG;EAC9CC,UAAU,EAAE;AACd,CAAC;AAED,OAAO,MAAM,CAACC,wBAAwB,EAAEC,mBAAmB,CAAC,GAAGJ,aAAa,CAMzE,0BAA0B,CAAC"}

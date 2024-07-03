@@ -1,0 +1,1 @@
+{"version":3,"names":["React","MenuContext","createContext","closeOnSelect","onClose"],"sourceRoot":"../../../../../src","sources":["components/composites/Menu/MenuContext.ts"],"mappings":"AAAA,OAAOA,KAAK,MAAM,OAAO;AACzB,OAAO,MAAMC,WAAW,gBAAGD,KAAK,CAACE,aAAa,CAAC;EAC7CC,aAAa,EAAE,IAAI;EACnBC,OAAO,EAAEA,CAAA,KAAM,CAAC;AAClB,CAAC,CAAC"}

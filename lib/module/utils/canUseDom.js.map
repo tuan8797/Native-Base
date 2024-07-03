@@ -1,0 +1,1 @@
+{"version":3,"names":["Platform","canUseDom","window","OS"],"sourceRoot":"../../../src","sources":["utils/canUseDom.ts"],"mappings":"AAAA,SAASA,QAAQ,QAAQ,cAAc;AAEvC,OAAO,SAASC,SAASA,CAAA,EAAG;EAC1B,IAAI,OAAOC,MAAM,KAAK,WAAW,IAAIF,QAAQ,CAACG,EAAE,KAAK,KAAK,EAAE;IAC1D,OAAO,IAAI;EACb;EACA,OAAO,KAAK;AACd"}

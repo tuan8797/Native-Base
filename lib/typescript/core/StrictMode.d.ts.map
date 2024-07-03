@@ -1,0 +1,1 @@
+{"version":3,"file":"StrictMode.d.ts","sourceRoot":"","sources":["../../../src/core/StrictMode.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,SAAS,GAAG,KAAK,GAAG,MAAM,GAAG,OAAO,CAAC;AAEjD,QAAA,MAAM,cAAc,mBAAmB,CAAC;AACxC,QAAA,MAAM,aAAa,kBAAkB,CAAC;AAEtC,eAAO,MAAM,gBAAgB;WAMpB,MAAM;WACN,MAAM;UACP,SAAS;UACT,qBAAqB,GAAG,oBAAoB;UAuBnD,CAAC"}

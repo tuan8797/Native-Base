@@ -1,0 +1,1 @@
+{"version":3,"names":["createIcon","AddIcon","viewBox","d"],"sourceRoot":"../../../../../../src","sources":["components/primitives/Icon/Icons/Add.tsx"],"mappings":"AAAA,SAASA,UAAU,QAAQ,eAAe;AAE1C,OAAO,MAAMC,OAAO,GAAGD,UAAU,CAAC;EAChCE,OAAO,EAAE,WAAW;EACpBC,CAAC,EAAE;AACL,CAAC,CAAC"}

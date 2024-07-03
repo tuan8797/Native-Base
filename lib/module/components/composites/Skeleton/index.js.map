@@ -1,0 +1,1 @@
+{"version":3,"names":["SkeletonMain","SkeletonText","SkeletonTemp","Text","Skeleton"],"sourceRoot":"../../../../../src","sources":["components/composites/Skeleton/index.tsx"],"mappings":"AACA,OAAOA,YAAY,MAAM,YAAY;AACrC,OAAOC,YAAY,MAAM,gBAAgB;AAEzC,MAAMC,YAAiB,GAAGF,YAAY;AACtCE,YAAY,CAACC,IAAI,GAAGF,YAAY;;AAEhC;AACA,MAAMG,QAAQ,GAAGF,YAAsC;AACvD,SAASE,QAAQ"}

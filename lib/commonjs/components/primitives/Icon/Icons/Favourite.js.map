@@ -1,0 +1,1 @@
+{"version":3,"names":["_createIcon","require","FavouriteIcon","createIcon","viewBox","d","exports"],"sourceRoot":"../../../../../../src","sources":["components/primitives/Icon/Icons/Favourite.tsx"],"mappings":";;;;;;AAAA,IAAAA,WAAA,GAAAC,OAAA;AAEO,MAAMC,aAAa,GAAG,IAAAC,sBAAU,EAAC;EACtCC,OAAO,EAAE,WAAW;EACpBC,CAAC,EACC;AACJ,CAAC,CAAC;AAACC,OAAA,CAAAJ,aAAA,GAAAA,aAAA"}

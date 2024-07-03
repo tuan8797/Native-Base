@@ -1,0 +1,1 @@
+{"version":3,"names":["baseStyle","defaultProps","ratio","_default","exports","default"],"sourceRoot":"../../../../src","sources":["theme/components/aspect-ratio.ts"],"mappings":";;;;;;AAAA,MAAMA,SAAS,GAAG,CAAC,CAAC;AACpB,MAAMC,YAAY,GAAG;EACnBC,KAAK,EAAE,CAAC,GAAG;AACb,CAAC;AAAC,IAAAC,QAAA,GACa;EACbH,SAAS;EACTC;AACF,CAAC;AAAAG,OAAA,CAAAC,OAAA,GAAAF,QAAA"}

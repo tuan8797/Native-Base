@@ -1,0 +1,1 @@
+{"version":3,"names":["createIcon","PlayIcon","viewBox","d"],"sourceRoot":"../../../../../../src","sources":["components/primitives/Icon/Icons/Play.tsx"],"mappings":"AAAA,SAASA,UAAU,QAAQ,eAAe;AAE1C,OAAO,MAAMC,QAAQ,GAAGD,UAAU,CAAC;EACjCE,OAAO,EAAE,WAAW;EACpBC,CAAC,EACC;AACJ,CAAC,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"names":["_createIcon","require","ShareIcon","createIcon","viewBox","d","exports"],"sourceRoot":"../../../../../../src","sources":["components/primitives/Icon/Icons/Share.tsx"],"mappings":";;;;;;AAAA,IAAAA,WAAA,GAAAC,OAAA;AAEO,MAAMC,SAAS,GAAG,IAAAC,sBAAU,EAAC;EAClCC,OAAO,EAAE,WAAW;EACpBC,CAAC,EACC;AACJ,CAAC,CAAC;AAACC,OAAA,CAAAJ,SAAA,GAAAA,SAAA"}

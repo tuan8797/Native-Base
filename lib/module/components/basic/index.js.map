@@ -1,0 +1,1 @@
+{"version":3,"names":["ScrollView","View","StatusBar","FlatList","SectionList","KeyboardAvoidingView"],"sourceRoot":"../../../../src","sources":["components/basic/index.tsx"],"mappings":"AAAA,SAASA,UAAU,QAAQ,cAAc;AAEzC,SAASC,IAAI,QAAQ,QAAQ;AAC7B,SAASC,SAAS,QAAQ,aAAa;AACvC,SAASC,QAAQ,QAAQ,YAAY;AACrC,SAASC,WAAW,QAAQ,eAAe;AAC3C,SAASC,oBAAoB,QAAQ,wBAAwB"}

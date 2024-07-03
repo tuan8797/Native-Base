@@ -1,0 +1,1 @@
+{"version":3,"file":"responsiveValue.d.ts","sourceRoot":"","sources":["../../../../src/components/types/responsiveValue.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,mBAAmB,CAAC;AAEhD,MAAM,MAAM,eAAe,CAAC,CAAC,IACzB,CAAC,GACD,IAAI,GACJ,SAAS,GACT,KAAK,CAAC,CAAC,GAAG,IAAI,CAAC,GACf;KAAG,GAAG,IAAI,MAAM,MAAM,CAAC,aAAa,CAAC,CAAC,CAAC,EAAE,CAAC;CAAE,CAAC"}

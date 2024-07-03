@@ -1,0 +1,1 @@
+{"version":3,"names":["baseStyle","width","height","defaultProps","isUnderlined"],"sourceRoot":"../../../../src","sources":["theme/components/link.ts"],"mappings":"AAAA,MAAMA,SAAS,GAAGA,CAAA,KAAM;EACtB,OAAO;IACLC,KAAK,EAAE,MAAM;IACbC,MAAM,EAAE;EACV,CAAC;AACH,CAAC;AAED,eAAe;EACbF,SAAS;EACTG,YAAY,EAAE;IACZC,YAAY,EAAE;EAChB;AACF,CAAC"}

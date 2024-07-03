@@ -1,0 +1,1 @@
+{"version":3,"names":["_react","require","TabsContext","createContext","exports"],"sourceRoot":"../../../../../src","sources":["components/composites/Tabs/Context.ts"],"mappings":";;;;;;AAAA,IAAAA,MAAA,GAAAC,OAAA;AAEO,MAAMC,WAAW,gBAAG,IAAAC,oBAAa,EAAC,CAAC,CAAC,CAAC;AAACC,OAAA,CAAAF,WAAA,GAAAA,WAAA"}
